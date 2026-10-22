@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Olá, eu sou Eduardo Cavalcanti Magalhães
 
-<!--
-**EduardoC-M/EduardoC-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia de Software** | 💻 **Técnico em Informática**  
+🚀 Focado em desenvolvimento web, lógica de programação e construção de sistemas  
+📚 Sempre buscando evolução constante em tecnologia, arquitetura e boas práticas de código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+
+**Linguagens & Web:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+**Banco de Dados & Ferramentas:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📂 Projetos em Destaque
+
+* 🌐 **Portfólio Pessoal:** Apresentação de projetos e trajetória acadêmica.
+* 📊 **Trabalhos Acadêmicos:** Algoritmos, estrutura de dados e engenharia de software.
+
+---
+
+### 🎯 Objetivos
+
+- [ ] Evoluir na jornada para me tornar um **Desenvolvedor Full Stack**.
+- [ ] Aprofundar conhecimentos em arquitetura de backend e otimização de bancos de dados.
+- [ ] Aplicar boas práticas de programação e padrões de projeto (Clean Code, SOLID).
+- [ ] Colaborar em projetos open-source e trabalhos em equipe.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoC-M&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoC-M&layout=compact&theme=radial"/>
+</div>
+
+---
+
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-cavalcanti-magalhães-038b90440)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoC-M)
+
+---
+
+<div align="center">
+  ⭐ <i>Obrigado por visitar meu perfil!</i>
+</div>
