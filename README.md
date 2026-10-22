@@ -37,15 +37,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoC-M&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoC-M&layout=compact&theme=radial"/>
-</div>
-
----
-
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-cavalcanti-magalhães-038b90440)
